@@ -1,0 +1,15 @@
+ion-item::part(native) {
+    padding-left: unset;
+}
+
+.bottom-banner {
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    margin-left: 24px;
+}
+
+ion-fab {
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
