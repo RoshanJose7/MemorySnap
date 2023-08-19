@@ -70,7 +70,7 @@ const EntryPage: React.FC = () => {
                     <IonButtons slot="start">
                         <IonBackButton/>
                     </IonButtons>
-                    <IonTitle>Daily Moments</IonTitle>
+                    <IonTitle>Memory Snap</IonTitle>
                     <IonButtons slot="end">
                         <IonButton onClick={handleDelete}>
                             <IonIcon icon={trash} slot="icon-only"/>

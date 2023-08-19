@@ -15,6 +15,7 @@ import {
 } from '@ionic/react';
 import React, {useState} from 'react';
 import {Redirect, useHistory} from "react-router-dom";
+
 import {useAuth} from "../context/auth";
 import {auth} from "../firebase/firebase";
 
@@ -57,11 +58,11 @@ const SignUpPage: React.FC = () => {
         <IonPage>
             <IonHeader>
                 <IonToolbar>
-                    <IonTitle>Daily Moments</IonTitle>
+                    <IonTitle>Memory Snap</IonTitle>
                 </IonToolbar>
             </IonHeader>
             <IonContent className="ion-padding">
-                <h1 className="ion-margin-top">Sign up to Daily Moments</h1>
+                <h1 className="ion-margin-top">Sign up to Memory Snap</h1>
                 <IonList className="ion-margin-top">
                     <IonItem>
                         <IonLabel position="floating">Email</IonLabel>

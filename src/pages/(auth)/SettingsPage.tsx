@@ -8,7 +8,7 @@ const SettingsPage: React.FC = () => {
         <IonPage>
             <IonHeader>
                 <IonToolbar>
-                    <IonTitle>Daily Moments</IonTitle>
+                    <IonTitle>Memory Snap</IonTitle>
                 </IonToolbar>
             </IonHeader>
             <IonContent className="ion-padding">

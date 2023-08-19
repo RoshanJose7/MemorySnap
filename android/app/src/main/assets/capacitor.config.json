@@ -1,6 +1,6 @@
 {
-  "appId": "org.example.dailymoments",
-  "appName": "Daily Moments",
+  "appId": "org.jose7.memorysnap",
+  "appName": "Memory Snap",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",

@@ -198,7 +198,7 @@ const AddEntryPage: React.FC = () => {
                     <IonButtons slot="start">
                         <IonBackButton/>
                     </IonButtons>
-                    <IonTitle>Daily Moments</IonTitle>
+                    <IonTitle>Memory Snap</IonTitle>
                 </IonToolbar>
             </IonHeader>
             <IonContent className="ion-padding">
